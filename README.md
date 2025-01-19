@@ -1,11 +1,11 @@
-# Running AI Locally on Raspberry Pi 4B
+# Running AI Locally on Raspberry Pi
 
 ## Preparation Steps
 
 ### Raspberry Pi Imager
 1. Download Raspberry Pi Imager from [raspberrypi.com/software](https://www.raspberrypi.com/software/).
 2. Install and open Raspberry Pi Imager.
-3. **Choose Device**: Select your Raspberry Pi 4B.
+3. **Choose Device**: Select your Raspberry Pi.
 4. **Choose OS**: Choose Raspberry Pi OS.
    - *(Tested alternatives: Ubuntu Server 22, Manjaro ARM. Raspberry Pi OS gave the best results.)*
 5. **Choose Storage**: Select your SD card.
